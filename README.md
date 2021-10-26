@@ -1,6 +1,8 @@
-# React-All_Hooks
-## Project Description
-This is a project from udemy course : "React - The Complete Guide"
+# Project Description
+
+## React-All_Hooks
+
+This is a dummy ingredient list project from udemy course: <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a>  by Maximilian Schwarzmuller
 
 To view this app, go to: https://react-all-hooks.vercel.app/
 
